@@ -82,18 +82,18 @@ class IdentityRunner{
 		Identity.printNameAndGender("veena",'f');
 		Identity.printNameAndGender("Jeevika",'f');
 		
-		Identity.printNameAndWorking("Nayana","no");
-		Identity.printNameAndWorking("Anusha","no");
-		Identity.printNameAndWorking("Smruthi","no");
-		Identity.printNameAndWorking("Aishwarya","no");
-		Identity.printNameAndWorking("Abhighjna","no");
-		Identity.printNameAndWorking("Spoorthi","no");
-		Identity.printNameAndWorking("Anusha D","no");
-		Identity.printNameAndWorking("pooja","no");
-		Identity.printNameAndWorking("Rashmi","no");
-		Identity.printNameAndWorking("Shwetha","no");
-		Identity.printNameAndWorking("veena","no");
-		Identity.printNameAndWorking("Jeevika","no");
+		Identity.printNameAndWorking("Nayana","trainer");
+		Identity.printNameAndWorking("Anusha","trainer");
+		Identity.printNameAndWorking("Smruthi","trainer");
+		Identity.printNameAndWorking("Aishwarya","trainer");
+		Identity.printNameAndWorking("Abhighjna","trainer");
+		Identity.printNameAndWorking("Spoorthi","trainer");
+		Identity.printNameAndWorking("Anusha D","trainer");
+		Identity.printNameAndWorking("pooja","trainer");
+		Identity.printNameAndWorking("Rashmi","trainer");
+		Identity.printNameAndWorking("Shwetha","trainer");
+		Identity.printNameAndWorking("veena","trainer");
+		Identity.printNameAndWorking("Jeevika","trainer");
 		
 		Identity.printNameAndShirtSize("Nayana",'M');
 		Identity.printNameAndShirtSize("Anusha",'M');

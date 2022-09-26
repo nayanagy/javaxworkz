@@ -59,6 +59,6 @@ class Product{
 		 System.out.println("Product is bad");
 	 }
 	
- }
+     }
 
 }

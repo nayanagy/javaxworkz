@@ -6,7 +6,7 @@ class DataOfBillionaries
 	//save 
 	static void save(String billionarie)
 	{
-		System.out.println("Svae :naditha ede");
+		System.out.println("Save :naditha ede");
 		if(position>=10)
 		{
 			System.out.println("Array is exeed");

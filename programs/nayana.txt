@@ -1,0 +1,77 @@
+1.Platform Independence:
+		Java is Platform Independent because it as a byte code.javc is converted .java to .class means it convert source code into bytecode.
+		"WORA"it means Write once read anywhare.java is high level Object oriented programming language and it is platform independence because
+		it has byte code and it is secure autentication System based on Public key encription and it has byte code
+		
+2.		Primitive :                          
+				*Primitive data types dose not have state and behavior.
+				*data types start with Lower case
+				*8 Primitive data types int,float,long,short,boolean,double,
+				
+		Non-Primitive:
+				*non-Primitive data types has State and behavior
+				*it starts with Upper case
+				*non primitive data type evrey object/class is is non primitive dtat type
+				*String,Array
+3.class and its members	:
+		class is a instance of object.it has variables,keywords,method,data type,
+		variables: used to reference the value of datatype. it has 4 different varables Local ,static,Instance,Parameter
+		Local:it means declare with in the method
+		static :declare with in the class using ststic keywords
+			eg :static String name;
+		instance:declare outside the method 
+		parameter:Passing the value inside the parameter when method calls
+		DataType:which is used to hold the address of variables
+			eg:	int age=20
+			
+4.write a program to accept two inputs total marks and received marks,claculate percentage and return
+
+	class Marks
+	{
+		static long totalMarks;
+		System.out.println("Total marks :"+totalMarks);
+		static long marks;
+		float percentage=(marks*100)/totalmarks;
+		return  0;
+		if(percentage>60)
+		{
+		System.out.println("Eligable for this job"+percentage);
+		
+		}
+		else{
+		System.out.println("Eligable for this job"+percentage};
+	}
+		
+		
+		
+5. Remove duplicates in an below array
+		int[] values={34,78,90,53,34,11,53,15,78,91,8,4,67,11};
+
+	class duplicate{
+		static int[] values={34,78,90,53,34,11,53,15,78,91,8,4,67,11};
+		
+		if(values[index]=values[index])
+		{
+		for(int i=0;i<=values.length;i++)
+		{
+		int point;
+		values.length[i]=point;
+		point=null;
+		return 0;
+		}
+		else{
+		System.out.println(values[]);
+		}
+		
+		}
+	}
+	
+	
+6,explain main method with the memory it executes
+
+		in the memory is called heap memory , String stored in heap memory it creates frame,and it as constant pool,intstance memory ,meta space,
+		* values stored in constant pool
+7,program to find reverse of a number
+8,program to find hourse into sec
+9,program to find Armstrong number
+
